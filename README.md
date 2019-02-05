@@ -5,7 +5,7 @@ Languages used: HTML, CSS, Javascript, jQuery, PHP, SQL(MySQL).
 
 # A few pictures of the website
 
-  <img src="https://i.imgur.com/iPTx6Bo.jpg">
+  <img src="https://i.imgur.com/WrdHjDy.jpg">
   <img src="https://i.imgur.com/9X67BXf.png">
   <b>An explanation of the picture above: the search bar(top middle) finds users with the value of the input. The comment section is open on the 4th post.<b>
   <br>
