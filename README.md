@@ -15,6 +15,7 @@ Languages used: HTML, CSS, Javascript, jQuery, PHP, SQL(MySQL).
 
 # How to get started
  - Import the SQL file inside of the "IMPORT THIS" folder. If you are a bit iffy about importing some file, you can open it inside of a text editor and see the content of it.
+ - Edit the config/config.php file with your DB info.
  
  I use MySQL Workbench, but there is a import option in phpmyadmin too.
  It will create a database called "social_media" and 6 tables, users, posts, comments, likes, friend_requests and messages.
