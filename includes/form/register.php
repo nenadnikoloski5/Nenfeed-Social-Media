@@ -110,6 +110,7 @@ if (isset($_POST['register_button'])) {
         // Giving a profile picture
         $random = rand(1,16);
 
+        // Instead of IF ELSE statements, I should've used switch
         if($random == 1){
             $profile_pic = 'assets/images/profile_pics/defaults/head_alizarin.png';
         } else if($random == 2){
